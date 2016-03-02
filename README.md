@@ -2,9 +2,9 @@
 
 Include ng-htmlCompiler.js file in your layout & then 
 
-Use ng-htmlComiler in your angular module as :
+Use ng-htmlCompiler in your angular module as :
 
-angular.module('app_name',['ng-htmlComiler']);
+angular.module('app_name',['ng-htmlCompiler']);
 
 
 And then in your view template 
