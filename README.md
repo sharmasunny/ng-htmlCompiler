@@ -1,4 +1,4 @@
-# ng-html-compiler
+# ng-htmlCompiler
 
 Include ng-htmlCompiler.js file in your layout & then 
 
