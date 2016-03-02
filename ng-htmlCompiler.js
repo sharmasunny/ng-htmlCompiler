@@ -16,8 +16,6 @@ angular.module('ng-htmlCompiler', [], function($compileProvider) {
 
                               // compile the new DOM and link it to the current
                               // scope.
-                              // NOTE: we only compile .childNodes so that
-                              // we don't get into infinite loop compiling ourselves
                               $compile(element.contents())(scope);
                         }
                   );
