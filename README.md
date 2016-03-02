@@ -12,4 +12,7 @@ use compile directive in your html element as compile="your_data_variable".
 
 This directive will work well in single element & also with angular ng-repeat.
 
+#Demo:
+https://plnkr.co/edit/leooiVyTKC9m6eR8cqPN?p=preview
+
 
