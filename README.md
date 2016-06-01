@@ -1,4 +1,5 @@
 # ng-htmlCompiler
+ng-htmlCompiler is a directive for rendering html code in angularjs
 
 Include ng-htmlCompiler.js file in your layout & then 
 
